@@ -1,84 +1,99 @@
-# Andrés Galvis — BI Analyst | Power BI Developer | Data Reporting Specialist
+<h1 align="center">
+  Hi, I'm Andrés Galvis 👋
+</h1>
 
-> Industrial Engineer · 3+ years turning raw data into business decisions
-> Open to remote opportunities · LATAM & global companies
+<h3 align="center">
+  BI Analyst · Power BI Developer · Data Reporting Specialist
+</h3>
 
----
-
-## About me
-
-I'm a data analyst with hands-on experience building ETL pipelines,
-interactive Power BI dashboards, and automated reporting systems.
-I've delivered data solutions for industries including **insurance**,
-**real estate**, and **energy** across 9 LATAM countries.
-
-Currently working as a **Data Analyst at Chubb** (via Connect Support),
-where I design ETL processes for unstructured insurance data and
-monitor KPIs across Latin America and Central America.
-
-**What I do:**
-- Design and automate ETL pipelines (extraction, transformation, load)
-- Build interactive dashboards in Power BI and Looker Studio
-- Clean, model and validate large datasets for business reporting
-- Generate executive reports and KPI tracking for senior stakeholders
-- Optimize operational processes through data-driven insights
+<p align="center">
+  <a href="https://linkedin.com/in/andresgalvis99">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:afgalvis29@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://andresgalvis.my.canva.site/analistadedatos">
+    <img src="https://img.shields.io/badge/-Portfolio-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## Tech stack
+## 🙋 About me
 
-| Tool | Level |
-|------|-------|
-| Power BI (DAX, Power Query, data modeling) | Advanced |
-| Microsoft Excel (pivot tables, advanced formulas, automation) | Advanced |
-| ETL processes (multi-source data pipelines) | Intermediate |
-| Looker Studio | Intermediate |
-| Google AppScript (process automation) | Basic |
-| Prompt Engineering (Anthropic) | Intermediate |
+Industrial Engineer turned Data Analyst with **3+ years of experience**
+building ETL pipelines, Power BI dashboards, and automated reporting
+systems across industries like **insurance, real estate, and energy**.
 
----
+Currently at **Chubb** (via Connect Support), processing unstructured
+insurance data across **9 LATAM countries** and monitoring quality KPIs.
 
-## Projects
-
-| Project | Tools | Business impact |
-|---------|-------|----------------|
-| [Insurance KPI Dashboard](#) | Power BI, Power Query | Monitored quote pipeline across 9 LATAM countries |
-| [Vendor Risk Tracker](#) | Power BI, Excel | Tracked 1,000+ vendor compliance scores |
-| [Operations ETL Pipeline](#) | Power Query, Excel | Automated multi-source data consolidation |
+📍 Bogotá, Colombia  |  🌐 Open to full remote opportunities
 
 ---
 
-## Experience highlights
+## 🛠️ Tech stack
+
+### BI & Visualization
+<div>
+  <img src="https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</div>
+
+### Data & Automation
+<div>
+  <img src="https://img.shields.io/badge/-Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/-ETL_Pipelines-0052CC?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google_AppScript-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</div>
+
+### Currently learning
+<div>
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
+---
+
+## 📂 Featured projects
+
+| # | Project | Tools | Impact |
+|---|---------|-------|--------|
+| 1 | [📊 Sales & Operations Dashboard](https://github.com/andresgalvis99/sales-operations-dashboard) | Power BI · Excel | Multi-country KPI tracking with MoM & YoY analysis |
+| 2 | [⚙️ Operational KPI Dashboard](https://github.com/andresgalvis99/operational-kpi-dashboard) | Looker Studio · AppScript · Sheets | Reduced daily analysis from 30 min → 3 min |
+| 3 | [🌐 Freelance Market Intelligence](https://github.com/andresgalvis99/freelance-market-intelligence) | Power BI · Excel | Competitive analysis across 5 platforms & 5M+ mapped markets |
+
+---
+
+## 💼 Experience
 
 **Data Analyst — Chubb (via Connect Support)** · Oct 2025–Present
-ETL for Marine P&C insurance quotes · 9 countries · ML-assisted document extraction
+ETL for Marine P&C insurance · 9 LATAM countries · ML-assisted extraction
 
 **Operations Coordinator — Propiedata** · Jul 2024–Oct 2025
-Power BI dashboards · SQL data validation · Executive reporting
+Power BI dashboards · data modeling · executive reporting
 
 **Data Analyst — Propiedata** · Aug 2023–Jul 2024
-ETL pipelines · Power BI + Looker Studio dashboards · AppScript automation
+ETL pipelines · Power BI + Looker Studio · AppScript automation
 
 **Qualification Analyst — Enel Colombia** · Dec 2022–Jul 2023
-Risk dashboards for 1,000+ vendors · segmentation analysis · KPI reporting
+Risk dashboards for 1,000+ vendors · KPI reporting
 
 ---
 
-## Education & certifications
+## 🎓 Education & certifications
 
-- Industrial Engineering — Universidad Militar Nueva Granada (2022)
-- Data Science & AI — Platzi (2025)
-- Excel & Power BI / Python & SQL Fundamentals — Daxus Latam (in progress)
-- Prompt Engineering — Anthropic
-
----
-
-## Contact
-
-- **LinkedIn:** [linkedin.com/in/andresgalvis99](https://linkedin.com/in/andresgalvis99)
-- **Email:** afgalvis29@gmail.com
-- **Location:** Bogotá, Colombia · Open to full remote
+<div>
+  <img src="https://img.shields.io/badge/-Industrial_Engineering-005F73?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Data_Science_%26_AI_(Platzi)-98CA32?style=for-the-badge&logo=platzi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Prompt_Engineering_(Anthropic)-CC785C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Excel_%26_Power_BI_(Daxus)-F2C811?style=for-the-badge&logoColor=black" />
+</div>
 
 ---
-*Available for BI Analyst, Power BI Developer, Data Reporting Specialist,
-and Business Intelligence roles. Fluent in Spanish, working-level English (B1).*
+
+<p align="center">
+  <i>Available for BI Analyst · Power BI Developer · Data Reporting Specialist roles — full remote</i>
+</p>
