@@ -63,8 +63,7 @@ insurance data across **9 LATAM countries** and monitoring quality KPIs.
 |---------|---------|-------|--------|
 | [📊 Sales & Operations Dashboard](https://github.com/afgalvis29/-Dashboard-de-Ventas-y-Operaciones) | <img src="https://github.com/user-attachments/assets/ef4add83-e33d-445b-b250-4ca9b49e7553" width="200"/> | Power BI · Excel | Multi-country KPI tracking with MoM & YoY analysis |
 | [⚙️ Operational KPI Dashboard](https://github.com/afgalvis29/operational-kpi-dashboard) | <img src="https://github.com/user-attachments/assets/46546d78-17db-490d-a762-90fc4a25a813" width="200"/> | Looker Studio · AppScript · Sheets | Reduced daily analysis from 30 min → 3 min |
-| [🌐 Freelance Market Intelligence](https://github.com/afgalvis29/freelance-market-intelligence) | <img src="PEGA_AQUI_EL_LINK_DE_TU_SCREENSHOT" width="200"/> | Power BI · Excel | Competitive analysis across 5 platforms & 5M+ mapped markets |
-
+| [🌐 Freelance Market Intelligence](https://github.com/afgalvis29/freelance-market-intelligence) | <img src="https://github.com/user-attachments/assets/7c865867-e22d-457a-b23c-7c6f26fcefd6" width="200"/> | Power BI · Excel | Competitive analysis across 5 platforms & 5M+ mapped markets |
 ---
 
 ## 💼 Experience
