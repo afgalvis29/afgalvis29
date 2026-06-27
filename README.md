@@ -86,10 +86,19 @@ Risk dashboards for 1,000+ vendors · KPI reporting
 ## 🎓 Education & certifications
 
 <div>
-  <img src="https://img.shields.io/badge/-Industrial_Engineering-005F73?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Data_Science_%26_AI_(Platzi)-98CA32?style=for-the-badge&logo=platzi&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Prompt_Engineering_(Anthropic)-CC785C?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Excel_%26_Power_BI_(Daxus)-F2C811?style=for-the-badge&logoColor=black" />
+
+  <a href="https://verify.skilljar.com/c/6uzg26equqxy" target="_blank">
+    <img src="https://img.shields.io/badge/-AI_Fluency:_Framework_%26_Foundations_(Anthropic)-CC785C?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://platzi.com/p/agalvis1775/curso/2807-course/diploma/detalle/" target="_blank">
+    <img src="https://img.shields.io/badge/-Data_Science_%26_AI_(Platzi,_2025)-98CA32?style=for-the-badge&logo=platzi&logoColor=white" />
+  </a>
+
+  <img src="https://img.shields.io/badge/-Excel_%26_Power_BI_(Daxus,_in_progress)-F2C811?style=for-the-badge&logoColor=black" />
+
+  <img src="https://img.shields.io/badge/-Industrial_Engineering_(UMNG,_2022)-005F73?style=for-the-badge&logoColor=white" />
+
 </div>
 
 ---
