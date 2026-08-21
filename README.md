@@ -26,8 +26,6 @@ Industrial Engineer turned Data Analyst with **3+ years of experience**
 building ETL pipelines, Power BI dashboards, and automated reporting
 systems across industries like **insurance, real estate, and energy**.
 
-Currently at **Chubb** (via Connect Support), processing unstructured
-insurance data across **9 LATAM countries** and monitoring quality KPIs.
 
 📍 Bogotá, Colombia  |  🌐 Open to full remote opportunities
 
