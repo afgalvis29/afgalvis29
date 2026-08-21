@@ -66,7 +66,7 @@ systems across industries like **insurance, real estate, and energy**.
 
 ## 💼 Experience
 
-**Data Analyst — Chubb (via Connect Support)** · Oct 2025–Present
+**Data Analyst — Chubb (via Connect Support)** · Oct 2025–Aug 2026
 ETL for Marine P&C insurance · 9 LATAM countries · ML-assisted extraction
 
 **Operations Coordinator — Propiedata** · Jul 2024–Oct 2025
