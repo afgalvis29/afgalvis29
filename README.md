@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  BI Analyst · Power BI Developer · Data Reporting Specialist
+  BI Analyst · Power BI Developer · Data & Process Automation
 </h3>
 
 <p align="center">
@@ -24,7 +24,8 @@
 
 Industrial Engineer turned Data Analyst with **3+ years of experience**
 building ETL pipelines, Power BI dashboards, and automated reporting
-systems across industries like **insurance, real estate, and energy**.
+systems across industries like **insurance, real estate, energy and public utilities**.
+Lately I turn long manual processes into Python tools that read e-mails, extract PDF data and deliver validated reports.
 
 
 📍 Bogotá, Colombia  |  🌐 Open to full remote opportunities
@@ -45,12 +46,14 @@ systems across industries like **insurance, real estate, and energy**.
   <img src="https://img.shields.io/badge/-Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/-ETL_Pipelines-0052CC?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/-Google_AppScript-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 </div>
 
 ### Currently learning
 <div>
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ---
@@ -59,12 +62,17 @@ systems across industries like **insurance, real estate, and energy**.
 
 | Project | Preview | Tools | Impact |
 |---------|---------|-------|--------|
+| [🤖 NOMBRE_DEL_PROYECTO](https://github.com/afgalvis29/NOMBRE-DEL-REPO) | <img src="https://github.com/afgalvis29/NOMBRE-DEL-REPO/raw/main/docs/portada.png" width="200"/> | Python · pandas · pdfplumber · Selenium · Outlook | Replaced a 20-step manual daily report with a one-menu pipeline: e-mail → portal → PDF extraction → validated report |
 | [📊 Sales & Operations Dashboard](https://github.com/afgalvis29/-Dashboard-de-Ventas-y-Operaciones) | <img src="https://github.com/user-attachments/assets/ef4add83-e33d-445b-b250-4ca9b49e7553" width="200"/> | Power BI · Excel | Multi-country KPI tracking with MoM & YoY analysis |
 | [⚙️ Operational KPI Dashboard](https://github.com/afgalvis29/operational-kpi-dashboard) | <img src="https://github.com/user-attachments/assets/46546d78-17db-490d-a762-90fc4a25a813" width="200"/> | Looker Studio · AppScript · Sheets | Reduced daily analysis from 30 min → 3 min |
 | [🌐 Freelance Market Intelligence](https://github.com/afgalvis29/freelance-market-intelligence) | <img src="https://github.com/user-attachments/assets/7c865867-e22d-457a-b23c-7c6f26fcefd6" width="200"/> | Power BI · Excel | Competitive analysis across 5 platforms & 5M+ mapped markets |
+
 ---
 
 ## 💼 Experience
+
+**Senior Commercial Data Analyst — Área Limpia** · MES 2026–Present
+Billing & regulatory data · Python process automation · PDF data extraction
 
 **Data Analyst — Chubb (via Connect Support)** · Oct 2025–Aug 2026
 ETL for Marine P&C insurance · 9 LATAM countries · ML-assisted extraction
@@ -101,5 +109,5 @@ Risk dashboards for 1,000+ vendors · KPI reporting
 ---
 
 <p align="center">
-  <i>Available for BI Analyst · Power BI Developer · Data Reporting Specialist roles — full remote</i>
+  <i>Available for BI Analyst · Power BI Developer · Data & Automation roles — full remote</i>
 </p>
